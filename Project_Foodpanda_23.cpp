@@ -411,21 +411,21 @@ cout<<"It takes to delivary within 30 minutes"<<endl;
 
             else if(h==2){
                     int x;
-                cout<<"It's price 180 tk only.\nPlease payment to confirm";
+                cout<<"It's price 180 tk only.\nPlease payment to confirm\n";
                 cin>>x;
             if(x==180)
                cout<<"Fish and Chips Order Confirm\nPrice: 230"<<endl;}
 
             else if(h==3){
                     int x;
-                cout<<"It's price 350 tk only.\nPlease payment to confirm";
+                cout<<"It's price 350 tk only.\nPlease payment to confirm\n";
                 cin>>x;
                 if(x==350)
                 cout<<"Penne Arrabiata Order Confirm\nPrice: 350"<<endl;}
 
             else if(h==4){
                     int x;
-                cout<<"It's price 150 tk only.\nPlease payment to confirm";
+                cout<<"It's price 150 tk only.\nPlease payment to confirm\n";
                 cin>>x;
                 if(x==150)
                 cout<<"Tandoori Chicken Order Confirm\nPrice: 150"<<endl;}
@@ -434,7 +434,7 @@ cout<<"It takes to delivary within 30 minutes"<<endl;
             {
 
             int x;
-                cout<<"It's price 350 tk only.\nPlease payment to confirm";
+                cout<<"It's price 350 tk only.\nPlease payment to confirm\n";
                 cin>>x;
                 if(x==350)
                cout<<"Shrimp Scampi Order Confirm\nPrice: 350"<<endl;}
@@ -452,21 +452,21 @@ cout<<"It takes to delivary within 30 minutes"<<endl;
             cin>>h;
             if(h==1){
                     int x;
-                cout<<"It's price 250 tk only.\nPlease payment to confirm";
+                cout<<"It's price 250 tk only.\nPlease payment to confirm\n";
                 cin>>x;
                 if(x==250)
                 cout<<"Chicken Parmesan Order Confirm\nPrice: 250"<<endl;}
 
             else if(h==2){
                     int x;
-                cout<<"It's price 230 tk only.\nPlease payment to confirm";
+                cout<<"It's price 230 tk only.\nPlease payment to confirm\n";
                 cin>>x;
                 if(x==230)
                cout<<"Beef Tacos Order Confirm\nPrice: 230"<<endl;}
             else if(h==3)
             {
                 int x;
-                cout<<"It's price 280 tk only.\nPlease payment to confirm";
+                cout<<"It's price 280 tk only.\nPlease payment to confirm\n";
                 cin>>x;
                 if(x==280)
 
@@ -474,14 +474,14 @@ cout<<"It takes to delivary within 30 minutes"<<endl;
 
             else if(h==4){
                     int x;
-                cout<<"It's price 400 tk only.\nPlease payment to confirm";
+                cout<<"It's price 400 tk only.\nPlease payment to confirmV";
                 cin>>x;
                 if(x==400)
                 cout<<"Lobster Bisque Order Confirm\nPrice: 400"<<endl;}
 
             else if(h==5){
                     int x;
-                cout<<"It's price 150 tk only.\nPlease payment to confirm";
+                cout<<"It's price 150 tk only.\nPlease payment to confirm\n";
                 cin>>x;
                 if(x==150)
                cout<<"BBQ Ribs Order Confirm\nPrice: 150"<<endl;}
